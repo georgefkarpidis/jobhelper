@@ -8,8 +8,7 @@ export default function Home() {
           <a href="/jobs">Jobs</a>
           <a href="/auth">Sign in</a>
           <a href="/me">My profile</a>
-       <a href="/about">About</a>
-       </nav>
+        </nav>
       </header>
 
       <section style={{ marginTop: 40 }}>
